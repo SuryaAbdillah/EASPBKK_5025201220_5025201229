@@ -1,3 +1,13 @@
+Kelas: PBKK D
+
+Tahun: 2022 / 2023
+
+Anggota:
+- 5025201220 / Davian Benito
+- 5025201229 / Surya Abdillah
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
